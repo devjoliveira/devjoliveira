@@ -1,9 +1,9 @@
 ## Eae! Meu nome é João, prazer em te conhecer 😁
 
-- 🔭 Trabalhando em projetos próprios no momento
-- 🌱 Aprendendo HTML, CSS e JavaScript
+- 🔭 Jovem aprendiz de Service Desk
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Sou nerdola XD
+- ⚡ Aprendendo Java
 
 ##
 
@@ -16,6 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
   </div>
   
 ##
