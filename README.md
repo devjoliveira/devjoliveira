@@ -1,18 +1,17 @@
 ## Eae! Meu nome é João, prazer em te conhecer 😁
 
-- 🔭 Jovem aprendiz de Service Desk
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
-- ⚡ Aprendendo Java
+- 🔭 Estudante de Analise e Desenvolvimento de Sistemas
+- 🌱 Trabalhando na Apsen Farmacêutica como Jovem Aprendiz de Infraestrutura e Service Desk
+- 😄 Desenvolvimento Back-End e Análise de Dados
+- ⚡ Aprimorando meus conhecimentos em Java
 
 ##
 
 <div>
-  <a href="https://beacons.ai/eonegus](https://www.linkedin.com/in/](https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-695758242/">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-carvalho-ferreira-695758242/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eonegus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
