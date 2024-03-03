@@ -6,8 +6,6 @@
   <p>Todos os códigos e projetos que encontrarem por aqui terão sido construídos do zero.</p>
 
   <p>
-      <a href="https://github.com/eonegus?tab=followers">
-        <img alt="seguidores" title="Me siga no Github!" src="https://custom-icon-badges.demolab.com/github/followers/eonegus?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguir&logoColor=white"/></a>
       <a href="https://instagram.com/eonegus" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-carvalho-ferreira-695758242/" target="_blank">
