@@ -1,30 +1,25 @@
 # João Victor de Oliveira
+  **` 🔭 Estudante de Análise e Desenvolvimennto de Sistemas `** <br>\
+  😁 Bem vindo! \
+  Sou universitário, atualmente procurando pela minha primeira oportunidade de participar de um squad de desenvolvimento. \
+  Estou caminhando para me tornar um desenvolvedor Full-Stack, mas sou muito mais o back-end.
 
-**` 🔭 Estudante de Análise e Desenvolvimennto de Sistemas `**
+## Conecte-se comigo!
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/joaoliveira-dev)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:dev.joaoliveira@gmail.com)
 
-  <p>Sou um jovem que acredita no futuro, e que por meio da tecnologia podemos torná-lo um lugar melhor a todos!</p>
-  <p>Todos os códigos e projetos que encontrarem por aqui terão sido construídos do zero.</p>
-
-  <p>
-      <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-oliveira-carvalho-ferreira-695758242/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-      <a href = "mailto:1710.oliveira@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </p>
-
----
-
-### 💻 Tecnologias
+## 💻 Tecnologias
+  Algumas das linguagens e outras tecnologias que costumo utilizar: 
+  <br>\
   <img align="left" alt="Java" height="30" style="padding-right:10px;" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"/>
-  <img align="left" alt="Python" height="30" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="left" alt="MySQL" height="30" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/>
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/markdown/markdown-original.svg"/>
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <br />
-
----
-
-### 📈 Status
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eonegus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg"/>
+  <br><br>
+## 📈 Status
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjoliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
