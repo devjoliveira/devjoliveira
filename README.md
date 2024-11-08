@@ -1,5 +1,4 @@
-# João Victor de Oliveira
-` 🔭 Estudante de Análise e Desenvolvimennto de Sistemas `
+## ` 🔭 Estudante de Análise e Desenvolvimento de Sistemas `
 - 😁 Bem vindo!
 - Sou universitário e estagiário da **Vivo Telefônica**.
 - Trabalhando atualmente com desenvolvimento da ferramenta Jira
