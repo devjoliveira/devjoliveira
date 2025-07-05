@@ -15,14 +15,36 @@ Bem-vindo(a) ao meu perfil do GitHub. Sou um entusiasta de tecnologia, atualment
 
 ### 🛠️ Hard Skills
 
-<div style="display: inline_block"><br>
+#### Back-end
+<div style="display: inline_block">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="DotNetCore" width="30" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img align="center" alt="Golang" width="30" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"/>
+  <img align="center" alt="Java" width="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+</div>
+
+#### Front-end
+<div style="display: inline_block">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TailWind Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+</div>
+
+#### Banco de dados
+<div style="display: inline_block">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+#### Cloud
+<div style="display: inline_block">
+  <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+#### Ferramentas
+<div style="display: inline_block">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -37,8 +59,6 @@ Bem-vindo(a) ao meu perfil do GitHub. Sou um entusiasta de tecnologia, atualment
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=devjoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-**Observação:** Para que as estatísticas funcionem, certifique-se de que o `username` (`devjoliveira`) nos links acima é o seu nome de usuário correto no GitHub.
 
 ---
 
